@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "720310088018",
+    "firebase_url": "https://exer3firebaseapp-default-rtdb.firebaseio.com",
+    "project_id": "exer3firebaseapp",
+    "storage_bucket": "exer3firebaseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720310088018:android:f25a11094ee2934f9b8a8b",
+        "android_client_info": {
+          "package_name": "com.example.exer3honraralphdaniel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720310088018-a9cq5hjesu4utps63323uq8a2c7c5gg8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH21Z9QkBMt_HELCN2EmmbbMqdTjcUM84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720310088018-a9cq5hjesu4utps63323uq8a2c7c5gg8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
